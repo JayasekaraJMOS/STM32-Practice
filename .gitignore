@@ -1,0 +1,23 @@
+# STM32CubeIDE / Eclipse Build Artifacts
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Eclipse & CubeIDE workspace metadata
+.metadata/
+.settings/
+*.launch
+
+# Temporary / OS files
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
+*.tmp
