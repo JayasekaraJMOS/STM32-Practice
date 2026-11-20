@@ -47,7 +47,6 @@ int main(void){
 	GPIOB_BSRR |= 0x0000FFFF;
 	GPIOC_BSRR |= 0x0000FFFF;
 
-	//Stay here forever (main must never return on bare metal)
-	while (1) {
-	}
+
+
 }
